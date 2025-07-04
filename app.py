@@ -3,6 +3,7 @@ import numpy as np
 import joblib
 import streamlit as st
 import altair as alt
+import pickle
 
 st.set_page_config(page_title="HydroSense", layout="wide")
 
